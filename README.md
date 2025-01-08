@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Acknowledgment]
+- [Acknowledgement](#acknowldgement)
 
 ## Overview
 
