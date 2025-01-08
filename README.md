@@ -104,7 +104,7 @@ trading_robot = PyRobot(
     credentials_path='path/to/td_state.json'
 )
 ```
-## Acknowledgment
+## Acknowledgement
 This repository is based on the [Python Trading Robot](https://github.com/areed1192/python-trading-robot) project by **Alex Reed**.
 
 The original project is licensed under the [MIT License](./LICENSE). I would like to thank Alex Reed for making this project open-source and available for learning and reuse. This repository has been hosted under my account for educational purposes and to demonstrate my ability to work with open-source projects.
